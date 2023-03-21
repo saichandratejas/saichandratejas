@@ -1,4 +1,4 @@
-[![MasterHead](https://media-fastly.hackerearth.com/media/hackathon/scientific-games-code-a-thon-2020/images/05ceb4543b-SG1.gif)]
+[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/02/cs-an.gif)]
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*7Q3yvSIv_t0ioJ-Z.gif">
